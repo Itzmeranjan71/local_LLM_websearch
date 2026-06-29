@@ -1,4 +1,4 @@
-# 🔎 Web Search AI
+# 🔎 Local LLM webserch
 
 A lightweight **Python-based AI web search assistant** that combines **DuckDuckGo search** with a **local Ollama language model** to generate concise answers from real-time web content.
 
